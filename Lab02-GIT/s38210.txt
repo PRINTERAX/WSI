@@ -1,2 +1,3 @@
-Name: {Mateusz marchel}
+Name: {Mateusz Marchel}
 University: PJATK
+Student id: {s38210}
